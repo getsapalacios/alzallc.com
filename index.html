@@ -225,77 +225,6 @@
     }
 
     /* ──────────────────────────────
-       SOCIAL PROOF
-    ────────────────────────────── */
-    #social-proof {
-      background: var(--light-bg);
-      text-align: center;
-    }
-    #social-proof h2 {
-      font-size: clamp(1.6rem, 3vw, 2.4rem);
-      font-weight: 800;
-      color: var(--dark);
-      margin-bottom: 12px;
-    }
-    #social-proof p.intro {
-      color: var(--text-muted);
-      margin-bottom: 52px;
-      font-size: 1rem;
-    }
-    .testimonials-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 24px;
-      text-align: left;
-    }
-    .testimonial-card {
-      background: var(--white);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 32px;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-    }
-    .testimonial-placeholder {
-      background: repeating-linear-gradient(
-        90deg,
-        var(--border) 0px,
-        var(--border) 200px,
-        transparent 200px,
-        transparent 204px
-      );
-      height: 12px;
-      border-radius: 6px;
-      opacity: 0.5;
-    }
-    .testimonial-meta {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-    .avatar-placeholder {
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      background: var(--border);
-      flex-shrink: 0;
-    }
-    .name-placeholder {
-      background: var(--border);
-      height: 10px;
-      border-radius: 5px;
-      width: 120px;
-      opacity: 0.6;
-    }
-    .add-testimonial-note {
-      margin-top: 36px;
-      font-size: 0.85rem;
-      color: var(--text-muted);
-      font-style: italic;
-    }
-
-    /* ──────────────────────────────
        PRICING
     ────────────────────────────── */
     #pricing {
@@ -503,7 +432,7 @@
     }
     @media (max-width: 480px) {
       .container { padding: 0 16px; }
-      .solution-card, .testimonial-card, .pricing-card, .calendly-embed-wrapper { padding: 24px 20px; }
+      .solution-card, .pricing-card, .calendly-embed-wrapper { padding: 24px 20px; }
     }
   </style>
 </head>
@@ -589,64 +518,6 @@
           </p>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- ── SOCIAL PROOF ── -->
-  <section id="social-proof">
-    <div class="container">
-      <h2>What Clients Say</h2>
-      <p class="intro">Real results from real business owners.</p>
-      <div class="testimonials-grid">
-        <!-- Testimonial placeholder 1 -->
-        <div class="testimonial-card">
-          <div>
-            <div class="testimonial-placeholder" style="width:100%; margin-bottom:10px;"></div>
-            <div class="testimonial-placeholder" style="width:80%; margin-bottom:10px;"></div>
-            <div class="testimonial-placeholder" style="width:90%;"></div>
-          </div>
-          <div class="testimonial-meta">
-            <div class="avatar-placeholder"></div>
-            <div>
-              <div class="name-placeholder" style="margin-bottom:6px;"></div>
-              <div class="name-placeholder" style="width:80px;"></div>
-            </div>
-          </div>
-        </div>
-        <!-- Testimonial placeholder 2 -->
-        <div class="testimonial-card">
-          <div>
-            <div class="testimonial-placeholder" style="width:95%; margin-bottom:10px;"></div>
-            <div class="testimonial-placeholder" style="width:75%; margin-bottom:10px;"></div>
-            <div class="testimonial-placeholder" style="width:85%;"></div>
-          </div>
-          <div class="testimonial-meta">
-            <div class="avatar-placeholder"></div>
-            <div>
-              <div class="name-placeholder" style="margin-bottom:6px;"></div>
-              <div class="name-placeholder" style="width:100px;"></div>
-            </div>
-          </div>
-        </div>
-        <!-- Testimonial placeholder 3 -->
-        <div class="testimonial-card">
-          <div>
-            <div class="testimonial-placeholder" style="width:90%; margin-bottom:10px;"></div>
-            <div class="testimonial-placeholder" style="width:85%; margin-bottom:10px;"></div>
-            <div class="testimonial-placeholder" style="width:70%;"></div>
-          </div>
-          <div class="testimonial-meta">
-            <div class="avatar-placeholder"></div>
-            <div>
-              <div class="name-placeholder" style="margin-bottom:6px;"></div>
-              <div class="name-placeholder" style="width:90px;"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <p class="add-testimonial-note">
-        [ ADD TESTIMONIALS ] — Replace placeholders above with real client quotes once collected.
-      </p>
     </div>
   </section>
 
