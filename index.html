@@ -225,6 +225,73 @@
     }
 
     /* ──────────────────────────────
+       HOW IT WORKS
+    ────────────────────────────── */
+    #how-it-works {
+      background: var(--light-bg);
+    }
+    #how-it-works h2 {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 800;
+      color: var(--dark);
+      text-align: center;
+      margin-bottom: 12px;
+    }
+    #how-it-works p.intro {
+      text-align: center;
+      color: var(--text-muted);
+      max-width: 560px;
+      margin: 0 auto 56px;
+      font-size: 1.05rem;
+    }
+    .steps-list {
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+      max-width: 760px;
+      margin: 0 auto;
+    }
+    .step {
+      display: flex;
+      gap: 28px;
+      align-items: flex-start;
+    }
+    .step-number {
+      flex-shrink: 0;
+      width: 48px;
+      height: 48px;
+      background: var(--accent);
+      color: var(--white);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      font-weight: 800;
+    }
+    .step-body h3 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--dark);
+      margin-bottom: 8px;
+    }
+    .step-body p {
+      color: var(--text-muted);
+      font-size: 0.97rem;
+      line-height: 1.7;
+    }
+    .steps-footnote {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      font-style: italic;
+      margin-top: 48px;
+      max-width: 580px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    /* ──────────────────────────────
        PRICING
     ────────────────────────────── */
     #pricing {
@@ -457,7 +524,7 @@
       </p>
       <div class="hero-actions">
         <a href="#booking" class="btn btn-primary">Book a Free Discovery Call</a>
-        <a href="#solution" class="btn btn-outline">See How It Works</a>
+        <a href="#how-it-works" class="btn btn-outline">See How It Works</a>
       </div>
       <p class="hero-badge">No commitment. 30-minute call. Real results.</p>
     </div>
@@ -518,6 +585,41 @@
           </p>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- ── HOW IT WORKS ── -->
+  <section id="how-it-works">
+    <div class="container">
+      <h2>The Work Starts Before the Call</h2>
+      <div class="steps-list">
+
+        <div class="step">
+          <div class="step-number">1</div>
+          <div class="step-body">
+            <h3>Tell Us What's Slowing You Down</h3>
+            <p>You book a call and, right on the booking form, answer one question: What is one business process you spend too much time on? That single answer is what makes the next step possible — and what separates this from every other "let's hop on a call" you've been pitched.</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-number">2</div>
+          <div class="step-body">
+            <h3>We Build Your Automation Blueprint Before We Meet</h3>
+            <p>Before the call, we review your submission and map out a 60-second blueprint — specific automation ideas for your exact problem, not a generic overview of what automation can do. You don't show up to a blank whiteboard. You show up to a prepared plan built around your business.</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-number">3</div>
+          <div class="step-body">
+            <h3>We Meet, Review, and Decide What to Build</h3>
+            <p>The call is a focused review, not an exploratory conversation. You see exactly what's possible for your specific situation — and you decide whether to move forward. No vague follow-ups. No "we'll send over a proposal next week."</p>
+          </div>
+        </div>
+
+      </div>
+      <p class="steps-footnote">Most clients walk into their first call with a specific automation already mapped for their business.</p>
     </div>
   </section>
 
