@@ -493,6 +493,85 @@
     .footer-links a:hover { color: var(--white); }
 
     /* ──────────────────────────────
+       METRICS — WHAT AUTOMATION DELIVERS
+    ────────────────────────────── */
+    #metrics { background: var(--white); }
+    #metrics .section-label {
+      text-transform: uppercase;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: var(--cta);
+      text-align: center;
+      margin-bottom: 12px;
+    }
+    #metrics h2 {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 800;
+      color: var(--dark);
+      text-align: center;
+      margin-bottom: 12px;
+    }
+    #metrics p.intro {
+      text-align: center;
+      color: var(--text-muted);
+      max-width: 560px;
+      margin: 0 auto 56px;
+      font-size: 1.05rem;
+    }
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 24px;
+      align-items: stretch;
+    }
+    .metric-card {
+      background: var(--light-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 32px 28px;
+      display: flex;
+      flex-direction: column;
+      transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+    .metric-card:hover {
+      box-shadow: 0 8px 32px rgba(26,26,46,0.1);
+      transform: translateY(-3px);
+    }
+    .metric-card.featured {
+      border-color: var(--accent);
+      box-shadow: 0 8px 40px rgba(15,52,96,0.12);
+    }
+    .metric-number {
+      font-size: clamp(1.4rem, 2.2vw, 1.65rem);
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1.25;
+      letter-spacing: -0.5px;
+      margin-bottom: 14px;
+    }
+    .metric-context {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      line-height: 1.65;
+      flex-grow: 1;
+    }
+    .metric-source {
+      margin-top: 16px;
+      font-size: 0.75rem;
+      line-height: 1.5;
+      color: #9aa1ab;
+    }
+    .metric-attribution {
+      margin-top: 16px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    /* ──────────────────────────────
        RESPONSIVE
     ────────────────────────────── */
     @media (max-width: 768px) {
@@ -506,7 +585,7 @@
     }
     @media (max-width: 480px) {
       .container { padding: 0 16px; }
-      .solution-card, .pricing-card, .calendly-embed-wrapper { padding: 24px 20px; }
+      .solution-card, .pricing-card, .calendly-embed-wrapper, .metric-card { padding: 24px 20px; }
     }
   </style>
 </head>
@@ -535,6 +614,40 @@
         <a href="#how-it-works" class="btn btn-outline">See How It Works</a>
       </div>
       <p class="hero-badge">No commitment. 30-minute call. We map your process and show you exactly what we'd automate — free.</p>
+    </div>
+  </section>
+
+  <!-- ── METRICS: WHAT AUTOMATION DELIVERS ── -->
+  <section id="metrics">
+    <div class="container">
+      <p class="section-label">Proven Results</p>
+      <h2>What Automation Delivers</h2>
+      <p class="intro">Real numbers behind done-for-you automation — what changes when the repetitive work runs itself.</p>
+      <div class="metrics-grid">
+
+        <div class="metric-card featured">
+          <p class="metric-number">10–15% of the cost of a part-time VA</p>
+          <p class="metric-context">Alza automation handles follow-up, admin, and lead routing for $79–$199 per month — compared to $600–$1,000 per month for 10 hours of VA time. It runs 24 hours a day.</p>
+        </div>
+
+        <div class="metric-card">
+          <p class="metric-number">7x more likely to qualify a new lead</p>
+          <p class="metric-context">Harvard Business School research shows businesses that respond to a new inquiry within the first hour are 7x more likely to qualify it. Automated follow-up makes that window reliable — even when you're already with a client.</p>
+        </div>
+
+        <div class="metric-card">
+          <p class="metric-number">15+ hours recaptured every week</p>
+          <p class="metric-context">Business owners who automate email follow-up, admin, and lead routing consistently report recapturing 15 or more hours per week — without adding staff or extending their working day.</p>
+          <p class="metric-source">Based on Zapier 2026 automation user data and McKinsey research.</p>
+        </div>
+
+        <div class="metric-card">
+          <p class="metric-number">5 automated workflows — running daily, zero manual input</p>
+          <p class="metric-context">For one client, Alza built and deployed five connected workflows covering daily operations, triggered analysis, document processing, and follow-up routing — all running on schedule without the client touching a thing.</p>
+          <p class="metric-attribution">Alza client result, June 2026</p>
+        </div>
+
+      </div>
     </div>
   </section>
 
