@@ -1,0 +1,19 @@
+name: Daily rebuild
+
+# Rebuilds the site every morning so posts dated today go live on schedule.
+on:
+  schedule:
+    - cron: "30 11 * * *"  # 5:30 AM Central (standard time)
+  workflow_dispatch:
+
+permissions:
+  pages: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request a GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

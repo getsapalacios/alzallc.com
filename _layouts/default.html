@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E3DQ9JD8B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-E3DQ9JD8B6');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {% assign page_title = page.seo_title | default: page.title %}
+  <title>{% if page_title %}{{ page_title }} | {% endif %}Alza Services</title>
+  {% if page.description %}<meta name="description" content="{{ page.description | escape }}" />{% endif %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+  <meta property="og:site_name" content="Alza Services" />
+  <meta property="og:title" content="{{ page_title | default: site.title | escape }}" />
+  {% if page.description %}<meta property="og:description" content="{{ page.description | escape }}" />{% endif %}
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  {% if page.image.path %}{% assign social_image = page.image.path | absolute_url %}
+  <meta property="og:image" content="{{ social_image }}" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="{{ page.image.alt | escape }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ social_image }}" />
+  <meta name="twitter:image:alt" content="{{ page.image.alt | escape }}" />{% endif %}
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --dark: #1a1a2e;
+      --gold: #f9b233;
+      --gold-hover: #e09a1a;
+      --link: #0f3460;
+      --light-bg: #f8f9fc;
+      --border: #e2e6ef;
+      --text-muted: #6b7280;
+      --white: #ffffff;
+      --radius: 8px;
+    }
+    body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; color: var(--dark); background: var(--white); line-height: 1.7; }
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; height: auto; display: block; }
+    .container { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+    .narrow { max-width: 760px; }
+    .post-hero { width: 100%; border-radius: var(--radius); margin: 0 0 24px; }
+    .post-card-image { width: 100%; border-radius: var(--radius); margin-bottom: 12px; }
+
+    .btn { display: inline-block; padding: 16px 36px; border-radius: var(--radius); font-size: 1rem; font-weight: 700; transition: background 0.2s ease, transform 0.15s ease; }
+    .btn-primary { background: var(--gold); color: var(--dark); }
+    .btn-primary:hover { background: var(--gold-hover); transform: translateY(-1px); }
+
+    nav { position: sticky; top: 0; z-index: 100; background: var(--dark); padding: 16px 0; }
+    .nav-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+    .nav-logo { font-size: 1.35rem; font-weight: 800; color: var(--white); letter-spacing: -0.5px; }
+    .nav-logo span { color: var(--gold); }
+    .nav-links { display: flex; align-items: center; gap: 20px; }
+    .nav-links .text-link { color: rgba(255,255,255,0.8); font-weight: 600; }
+    .nav-links .text-link:hover { color: var(--white); }
+    .nav-cta { font-size: 0.9rem; padding: 10px 22px; }
+
+    main { padding: 56px 0 72px; background: var(--light-bg); }
+    h1 { font-size: 35px; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2; margin-bottom: 12px; }
+    h2 { font-size: 26px; font-weight: 800; margin: 36px 0 12px; }
+    h3 { font-size: 18px; font-weight: 700; margin: 28px 0 8px; }
+    .meta { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 32px; }
+    .content p, .content ul, .content ol { margin-bottom: 18px; }
+    .content ul, .content ol { padding-left: 24px; }
+    .content a { color: var(--link); text-decoration: underline; }
+    .content h1 { margin-bottom: 8px; }
+    .content table { width: 100%; border-collapse: collapse; margin-bottom: 18px; font-size: 0.95rem; display: block; overflow-x: auto; }
+    .content th, .content td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; vertical-align: top; }
+    .content th { background: var(--white); }
+    .content .task-list-item { list-style: none; margin-left: -20px; }
+    .content blockquote { border-left: 4px solid var(--dark); padding-left: 16px; color: var(--text-muted); margin-bottom: 18px; }
+
+    .post-list { list-style: none; display: grid; gap: 16px; margin-top: 32px; }
+    .post-card { display: block; background: var(--white); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; transition: border-color 0.2s ease; }
+    .post-card:hover { border-color: var(--dark); }
+    .post-card h3 { margin: 0 0 4px; }
+    .post-card p { color: var(--text-muted); }
+    .post-card .summary { color: var(--dark); margin-top: 6px; }
+    .empty { margin-top: 32px; color: var(--text-muted); }
+
+    .next-step { background: var(--dark); color: var(--white); border-radius: var(--radius); padding: 40px 32px; text-align: center; margin-top: 56px; }
+    .next-step h2 { margin: 0 0 8px; }
+    .next-step p { color: rgba(255,255,255,0.8); margin-bottom: 24px; }
+
+    footer { background: var(--dark); color: rgba(255,255,255,0.55); padding: 40px 0; font-size: 0.875rem; }
+    .footer-inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+    .footer-logo { font-size: 1.1rem; font-weight: 800; color: var(--white); }
+    .footer-logo span { color: var(--gold); }
+    .footer-links { display: flex; gap: 24px; flex-wrap: wrap; }
+    .footer-links a { color: rgba(255,255,255,0.45); }
+    .footer-links a:hover { color: var(--white); }
+
+    @media (max-width: 600px) {
+      .container { padding: 0 16px; }
+      h1 { font-size: 28px; }
+      .nav-cta { padding: 8px 14px; font-size: 0.8rem; }
+      .nav-links { gap: 12px; }
+      .footer-inner { flex-direction: column; text-align: center; }
+      .footer-links { justify-content: center; }
+      .next-step { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="container nav-inner">
+      <a href="/" class="nav-logo">Alza<span>.</span>Services</a>
+      <div class="nav-links">
+        <a href="/blog/" class="text-link">Blog</a>
+        <a href="/#booking" class="btn btn-primary nav-cta">Book a Free Call</a>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <div class="container narrow">
+      {{ content }}
+
+      <section class="next-step">
+        <h2>Ready to get hours back every week?</h2>
+        <p>Tell us what's eating your time. We'll show you what we can take off your plate.</p>
+        {% if page.layout == 'post' %}
+        <a href="https://cal.com/alza-unit-wz3opc/30min" class="btn btn-primary" target="_blank" rel="noopener">Book a free workflow review</a>
+        {% else %}
+        <a href="https://cal.com/alza-unit-wz3opc/30min" class="btn btn-primary" target="_blank" rel="noopener">Book a Free Discovery Call</a>
+        {% endif %}
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <span class="footer-logo">Alza<span>.</span>Services</span>
+      <p>&copy; 2026 Alza LLC. All rights reserved. &nbsp;|&nbsp; alza.unit@gmail.com</p>
+      <div class="footer-links">
+        <a href="/blog/">Blog</a>
+        <a href="/privacy.html">Privacy Policy</a>
+        <a href="/#booking">Book a Call</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

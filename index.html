@@ -99,6 +99,9 @@
     }
     .nav-logo span { color: var(--cta); }
     .nav-cta { font-size: 0.9rem; padding: 10px 22px; }
+    .nav-links { display: flex; align-items: center; gap: 20px; }
+    .nav-blog { color: rgba(255,255,255,0.8); font-weight: 600; }
+    .nav-blog:hover { color: #ffffff; }
 
     /* ──────────────────────────────
        HERO
@@ -602,7 +605,10 @@
   <nav>
     <div class="container nav-inner">
       <span class="nav-logo">Alza<span>.</span>Services</span>
-      <a href="#booking" class="btn btn-primary nav-cta">Book a Free Call</a>
+      <div class="nav-links">
+        <a href="/blog/" class="nav-blog">Blog</a>
+        <a href="#booking" class="btn btn-primary nav-cta">Book a Free Call</a>
+      </div>
     </div>
   </nav>
 
@@ -842,6 +848,7 @@
         <!-- OWNER: Update email address above -->
       </p>
       <div class="footer-links">
+        <a href="/blog/">Blog</a>
         <a href="privacy.html">Privacy Policy</a>
         <a href="#booking">Book a Call</a>
       </div>
