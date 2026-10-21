@@ -16,7 +16,7 @@ A new lead fills out your website form at 7:40 PM. You see it the next morning, 
 
 That is how many small businesses lose leads. It is not because the price was wrong or the work was worse. It is because someone else answered first.
 
-This post explains why speed matters, where leads get lost, what good follow-up looks like, and how to choose between the options people will try to sell you.
+This post explains why speed matters, where leads get lost, what good follow-up looks like, and how to choose between your options.
 
 ## Speed decides who wins the job
 
@@ -50,43 +50,40 @@ A strong follow-up system does five things for you:
 
 **5. Gives you a weekly summary.** How many leads came in, how many booked, and which ones still need a person.
 
-## Your options: a tool, a person, an agency, or done for you
+## How to choose: a tool, a person, an agency, or a done-for-you service
 
-Once you know what good follow-up looks like, you have to decide who will make it happen. Here are the four common choices, and when each one is the right one.
+Once you know what good follow-up looks like, you have to decide who will make it happen. There is no single right answer. Here are the common choices, and when each one fits.
 
-**1. Buy lead or CRM software.** A CRM (customer relationship management) tool can send automatic replies, track leads and run follow-up sequences. These tools are powerful. The catch is that the software does not set itself up. Someone still has to write the messages, build the follow-up rules, connect your form, inbox, texts and calendar, and fix things when they stop working. That setup can take many hours, and the learning curve is real. Buyers often regret software purchases for exactly this reason: in one survey, 32% of buyers who regretted a purchase blamed slow or hard implementation, and 33% said it cost more than expected (Gartner Digital Markets, 2023).
+**1. Lead or CRM software.** A CRM (customer relationship management) tool can send automatic replies, track leads and run follow-up sequences. These tools are powerful. The catch is that the software does not set itself up. Someone still has to write the messages, build the rules, connect your form, inbox, texts and calendar, and fix things when they stop working. That setup can take many hours. In one survey, 32% of buyers who regretted a purchase blamed slow or hard implementation, and 33% said it cost more than expected (Gartner Digital Markets, 2023).
 
 *Software is the right choice when* you have someone on your team who enjoys building and maintaining systems, or you need a full marketing platform.
 
-**2. Hire a virtual assistant or office admin.** A person can use judgment, handle phone calls and deal with messy one-off questions. But a person works only the hours you pay for. A lead at 7:40 PM still waits until morning. Training, checking their work, and replacing them when they leave all stay with you.
+**2. A virtual assistant or office admin.** A person can use judgment, handle phone calls and deal with messy one-off questions. A person works only the hours you pay for, so a lead at 7:40 PM still waits until morning. Training, checking their work and replacing them all stay with you.
 
 *A person is the right choice when* most of the work needs judgment on every item: calls, negotiation or in-person tasks.
 
-**3. Pay an agency or freelancer to set it up.** This gets the system built without you learning the tool. The weak spot is the handoff. When one of your connected apps changes and something breaks, no one owns the fix.
+**3. An agency or freelancer to set it up.** This gets the system built without you learning the tool. The weak spot is the handoff. When one of your connected apps changes and something breaks, someone has to own the fix.
 
 *An agency is the right choice when* you have staff who can own the system after the handoff, or the job is truly one-time.
 
-**4. Do it yourself.** You can answer every lead yourself, and the checklist below will help. It works at low volume. It does not scale, and it is the exact work that keeps you from growing.
+**4. A done-for-you service.** Someone sets up the follow-up and keeps it running for you. You give up some control and rely on the provider.
+
+*A done-for-you service is the right choice when* you are busy on jobs and want follow-up handled without adding to your team.
+
+*Watch for:* ask who fixes things when your tools change, and what you keep if you leave.
+
+**5. Do it yourself.** You can answer every lead yourself, and the checklist below helps. It works at low volume.
 
 *Doing it yourself is the right choice when* you get only a handful of leads a month. A template and a calendar reminder may be enough.
 
 ## What each option costs
 
+Prices change, so check each vendor's page before you decide.
+
 - **Lead or CRM software.** HubSpot's CRM is free for up to 2 users, with paid seats from about $20 a month (hubspot.com/pricing, October 2026). GoHighLevel starts at $97 a month (gohighlevel.com/pricing, October 2026); texting and email usage may cost extra.
 - **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
 - **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
-
-Alza Services plans start at $79 a month. [See plans and pricing](https://alzallc.com/#pricing)
-
-## Why a guided setup fits most busy owners
-
-Alza Services offers a guided setup. Here is what that means in plain terms:
-
-- **Planned with you, with a monthly check-in.** We plan your lead follow-up with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
-- **Works with the tools you already have.** We start from your existing inbox, calendar and software, so there is no new platform to learn and nothing to switch.
-- **A named owner for your workflows, not a support ticket.** You have one point of contact who knows your setup, and a clear way to flag a problem.
-
-You review and approve every message. And if a tool alone would solve your problem, we will tell you.
+- **A done-for-you service.** Prices vary. Ask for the full monthly price and any setup fee in writing.
 
 ## What you keep doing yourself
 
@@ -111,10 +108,10 @@ You can do this today, before you automate anything:
 
 If you do only steps 3 and 4, you will already follow up better than many businesses.
 
-## Book a free workflow review
+**[Download the one-page checklist (PDF)](/assets/downloads/lead-follow-up-inbox-checklist.pdf)**
 
-If leads are slipping through your inbox, we can help. Alza Services helps you plan lead follow-up around the inbox and calendar you already have, so every lead can get a reply and a steady follow-up without you living in email.
+## Tell us what you are dealing with
 
-In a free 30-minute workflow review, we look at how leads reach you today, map where follow-up could be automated, and tell you honestly which option fits: a tool, a person, or done for you. No cost and no commitment.
+Where do your leads slip through: after-hours forms, too many inboxes, or no second follow-up? [Reply and tell us](mailto:alza.unit@gmail.com?subject=Lead%20follow-up).
 
-**[Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)**
+If you'd like a second set of eyes on your follow-up, we offer a free 30-minute workflow review. [Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)

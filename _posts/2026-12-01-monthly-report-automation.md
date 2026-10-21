@@ -16,7 +16,7 @@ The month ends. Now someone has to build the report. You export from three syste
 
 For many small businesses, this takes a full weekend every month. The work is not difficult. It is just slow, and easy to get wrong when you are tired.
 
-This post shows how to turn your monthly report into a routine with much less hand work, what your options are for getting there, and how to choose.
+This post shows how to turn your monthly report into a routine with much less hand work, and how to choose a way to get there.
 
 ## Why monthly reporting takes so long
 
@@ -56,43 +56,40 @@ Keep it short. Most owners and business partners want the same few things:
 
 If your report has these five parts in the same order every month, your readers will understand it in under 2 minutes.
 
-## Your options for getting the report off your plate
+## How to choose a way to get the report off your plate
 
-There are four common ways to stop building the report by hand. Each has a real place.
+There are several ways to stop building the report by hand. Each has a real place.
 
-**1. Buy reporting or accounting software.** Your property management or accounting software may already have report templates. If it does, use them. The gap is that most reports pull from more than one place, and the software only knows its own numbers. Someone still has to set up the template, add the outside figures, write the summary and check for mistakes. New software also brings setup work and surprise costs: in one survey of software buyers who regretted a purchase, 33% said it cost more than expected and 32% blamed slow or hard implementation (Gartner Digital Markets, 2023).
+**1. Reporting or accounting software.** Your property management or accounting software may already have report templates. If it does, use them. The gap is that most reports pull from more than one place, and the software only knows its own numbers. Someone still has to set up the template, add the outside figures, write the summary and check for mistakes. In one survey of software buyers who regretted a purchase, 33% said it cost more than expected and 32% blamed slow or hard implementation (Gartner Digital Markets, 2023).
 
-*Software is the right choice when* you do not yet have a system that tracks your money at all. Get that first.
+*Software is the right choice when* your numbers mostly live in one system and its built-in report covers what you need.
 
-**2. Hire a virtual assistant or office admin.** A person can pull the numbers and build the report. But you still have to train them, check their work, and start over if they leave. The report is only as steady as the person doing it.
+**2. A virtual assistant or office admin.** A person can pull the numbers and build the report. You still train them, check their work, and start over if they leave.
 
 *A person is the right choice when* the report changes a lot each month and needs judgment on every line.
 
-**3. Pay an agency or freelancer to set it up.** You get a working report without learning the tools. The risk is the handoff. When one of your apps changes how it exports data, the report breaks, and no one owns the fix.
+**3. An agency or freelancer to set it up.** You get a working report without learning the tools. The risk is the handoff. When one of your apps changes how it exports data, the report can break, and someone has to own the fix.
 
-*An agency is the right choice when* you have staff who can maintain the report after the handoff.
+*An agency is the right choice when* you have staff who can maintain the report afterward.
 
-**4. Keep doing it yourself.** With a fixed template and the checklist below, it gets faster. It still costs your evenings and weekends.
+**4. A done-for-you service.** Someone sets up the report and keeps it running for you. You give up some control and rely on the provider.
+
+*A done-for-you service is the right choice when* you want the report handled and have no one on your team to own it.
+
+*Watch for:* ask who fixes it when an export changes, and what you keep if you leave.
+
+**5. Keep doing it yourself.** With a fixed template and the checklist below, it gets faster. It still takes your evenings.
 
 *Doing it yourself is the right choice when* you send only one or two short reports a month.
 
 ## What each option costs
 
+Prices change, so check each vendor's page before you decide.
+
 - **Property management software.** Buildium plans start at $62 a month, with Growth at $192 and Premium at $400 (buildium.com/pricing, October 2026). TenantCloud runs about $15–35 a month (tenantcloud.com/pricing, October 2026). Larger platforms charge per unit with monthly minimums.
 - **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
 - **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
-
-Alza Services plans start at $79 a month. [See plans and pricing](https://alzallc.com/#pricing)
-
-## Why a guided setup fits most busy owners
-
-Alza Services offers a guided setup. We plan the report around the tools you already use, so you do not need new software. You get a named owner for the setup and a monthly check-in.
-
-- **Planned with you, with a monthly check-in.** We plan the template, the checks and the summary with you, and one person owns the setup. You get a monthly check-in.
-- **Works with the tools you already have.** We start from your current tools, so there is no new platform to learn and no data to move.
-- **A named owner for your workflows, not a support ticket.** One point of contact who knows your setup and a clear way to flag a problem.
-
-If your software's built-in report already does the job, we will tell you.
+- **A done-for-you service.** Prices vary. Ask for the full monthly price and any setup fee in writing.
 
 ## What should always stay with a person
 
@@ -117,10 +114,10 @@ You can do this before you automate anything:
 
 Once you have a fixed template, a list of sources and a set of checks, you have everything needed to automate the report.
 
-## Book a free workflow review
+**[Download the one-page checklist (PDF)](/assets/downloads/monthly-report-automation-checklist.pdf)**
 
-If your monthly reports are eating your weekends, we can help. Alza Services helps you plan your monthly report around the tools you already have, so a draft can be ready on time and you only review and send.
+## Tell us what you are dealing with
 
-In a free 30-minute workflow review, we look at how you build your report today, map where it could be automated, and tell you honestly which option fits. No cost and no commitment.
+Which part of your monthly report takes longest: pulling the numbers, formatting, or writing the summary? [Reply and tell us](mailto:alza.unit@gmail.com?subject=Monthly%20report).
 
-**[Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)**
+If you'd like a second set of eyes on your monthly report, we offer a free 30-minute workflow review. [Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)
