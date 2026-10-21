@@ -70,13 +70,13 @@ Here are the four common ways to get tenant follow-up off your plate, with the h
 
 ## Why done for you fits small property managers
 
-Alza Services is a done-for-you option. We work on top of the software you already pay for.
+Alza Services is a done-for-you option. We plan tenant follow-up around the software you already pay for.
 
-- **Done for you, and kept running.** We set up the rules, write the messages in your voice, watch that they work, and fix them when something changes. You get a monthly check-in.
-- **Works with the tools you already have.** No switch, no data move, no new system to learn.
+- **Done for you, and kept running.** We plan the rules with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
+- **Works with the tools you already have.** The plan starts from your current software, so there is no switch and no data move.
 - **A named owner for your workflows, not a support ticket.** One point of contact who knows your setup and a clear way to flag a problem.
 
-You approve the messages. The routine ones send themselves. If your software alone can do the job, we will tell you.
+You approve every message. If your software alone can do the job, we will tell you.
 
 ## What should always stay with a person
 
@@ -104,8 +104,8 @@ With those five things written down, you have the plan for your first automated 
 
 ## Book a free workflow review
 
-If tenant follow-up is taking hours of your week, we can help. Alza Services sets up and runs tenant follow-up for small property managers, using the software you already have, and sends you only what needs a person.
+If tenant follow-up is taking hours of your week, we can help. Alza Services helps small property managers plan tenant follow-up around the software they already have, so only what needs a person reaches them.
 
-In a free 30-minute workflow review, we look at one repeat task in your office and tell you honestly which option fits. No cost and no commitment.
+In a free 30-minute workflow review, we look at one repeat task in your office, map how it could be automated, and tell you honestly which option fits. No cost and no commitment.
 
 **[Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)**

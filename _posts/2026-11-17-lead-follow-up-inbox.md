@@ -71,11 +71,11 @@ Once you know what good follow-up looks like, you have to decide who will make i
 
 Alza Services is a done-for-you option. Here is what that means in plain terms:
 
-- **Done for you, and kept running.** We set up your lead follow-up, write the messages in your voice, watch that it works, and fix it when something changes. You get a monthly check-in.
-- **Works with the tools you already have.** We use your existing inbox, calendar and software. There is no new platform to learn and nothing to switch.
+- **Done for you, and kept running.** We plan your lead follow-up with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
+- **Works with the tools you already have.** We start from your existing inbox, calendar and software, so there is no new platform to learn and nothing to switch.
 - **A named owner for your workflows, not a support ticket.** You have one point of contact who knows your setup, and a clear way to flag a problem.
 
-You review and approve the messages. The routine replies and reminders send themselves. And if a tool alone would solve your problem, we will tell you.
+You review and approve every message. And if a tool alone would solve your problem, we will tell you.
 
 ## What you keep doing yourself
 
@@ -102,8 +102,8 @@ If you do only steps 3 and 4, you will already follow up better than many busine
 
 ## Book a free workflow review
 
-If leads are slipping through your inbox, we can help. Alza Services sets up your lead follow-up and runs it for you, using the inbox and calendar you already have, so every lead gets a reply and a steady follow-up without you living in email.
+If leads are slipping through your inbox, we can help. Alza Services helps you plan lead follow-up around the inbox and calendar you already have, so every lead can get a reply and a steady follow-up without you living in email.
 
-In a free 30-minute workflow review, we look at how leads reach you today and tell you honestly which option fits: a tool, a person, or done for you. No cost and no commitment.
+In a free 30-minute workflow review, we look at how leads reach you today, map where follow-up could be automated, and tell you honestly which option fits: a tool, a person, or done for you. No cost and no commitment.
 
 **[Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)**

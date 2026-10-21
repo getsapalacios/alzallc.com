@@ -13,7 +13,7 @@ The month ends. Now someone has to build the report. You export from three syste
 
 For many small businesses, this takes a full weekend every month. The work is not difficult. It is just slow, and easy to get wrong when you are tired.
 
-This post shows how to turn your monthly report into a routine that builds itself, what your options are for getting there, and how to choose.
+This post shows how to turn your monthly report into a routine with much less hand work, what your options are for getting there, and how to choose.
 
 ## Why monthly reporting takes so long
 
@@ -75,10 +75,10 @@ There are four common ways to stop building the report by hand. Each has a real 
 
 ## Why done for you fits most busy owners
 
-Alza Services is a done-for-you option. The report pulls from the tools you already use, so you do not need new software. We set it up, keep it running month to month, and fix it when something changes.
+Alza Services is a done-for-you option. We plan the report around the tools you already use, so you do not need new software. You get a named owner for the setup and a monthly check-in.
 
-- **Done for you, and kept running.** We build the template, the checks and the summary, and maintain them every month, with a monthly check-in.
-- **Works with the tools you already have.** No new platform to learn and no data to move.
+- **Done for you, and kept running.** We plan the template, the checks and the summary with you, and one person owns the setup. You get a monthly check-in.
+- **Works with the tools you already have.** We start from your current tools, so there is no new platform to learn and no data to move.
 - **A named owner for your workflows, not a support ticket.** One point of contact who knows your setup and a clear way to flag a problem.
 
 If your software's built-in report already does the job, we will tell you.
@@ -108,8 +108,8 @@ Once you have a fixed template, a list of sources and a set of checks, you have 
 
 ## Book a free workflow review
 
-If your monthly reports are eating your weekends, we can help. Alza Services sets up your monthly report and runs it for you, using the tools you already have, so the draft is ready on time and you only review and send.
+If your monthly reports are eating your weekends, we can help. Alza Services helps you plan your monthly report around the tools you already have, so a draft can be ready on time and you only review and send.
 
-In a free 30-minute workflow review, we look at how you build your report today and tell you honestly which option fits. No cost and no commitment.
+In a free 30-minute workflow review, we look at how you build your report today, map where it could be automated, and tell you honestly which option fits. No cost and no commitment.
 
 **[Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)**
