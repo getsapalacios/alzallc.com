@@ -12,6 +12,7 @@ description: Practical notes on AI automation and operations for small businesse
   {% for post in site.posts %}
   <li>
     <a class="post-card" href="{{ post.url }}">
+      {% if post.image.path %}<img class="post-card-image" src="{{ post.image.path | relative_url }}" alt="{{ post.image.alt | escape }}" width="1200" height="630" loading="lazy" />{% endif %}
       <h3>{{ post.title }}</h3>
       <p>{{ post.date | date: "%B %-d, %Y" }}</p>
       {% if post.description %}<p class="summary">{{ post.description }}</p>{% endif %}

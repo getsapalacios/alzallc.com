@@ -4,6 +4,9 @@ title: "Why leads go cold in your inbox, and how to follow up within 5 minutes w
 seo_title: "Why Leads Go Cold in Your Inbox (and How to Fix It)"
 description: "Small businesses lose leads to slow replies. Compare your options for fast lead follow-up: software, an assistant, an agency, or done for you."
 permalink: /blog/lead-follow-up-inbox/
+image:
+  path: /assets/images/blog/lead-follow-up-inbox.png
+  alt: "A new website lead getting a reply within 5 minutes"
 date: 2026-11-17 06:00:00 -0600
 ---
 

@@ -4,6 +4,9 @@ title: "How property managers can stop chasing tenants for rent, renewals and ma
 seo_title: "Tenant Follow-Up for Property Managers: Stop Chasing by Hand"
 description: "How small property managers can automate rent reminders, renewals and maintenance updates, and how to choose between software, a hire, or done for you."
 permalink: /blog/property-manager-tenant-follow-up/
+image:
+  path: /assets/images/blog/property-manager-tenant-follow-up.png
+  alt: "Rent reminders, renewal notices and maintenance updates going out to tenants automatically"
 date: 2026-11-03 06:00:00 -0600
 ---
 
