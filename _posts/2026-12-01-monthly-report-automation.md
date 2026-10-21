@@ -76,6 +76,14 @@ There are four common ways to stop building the report by hand. Each has a real 
 
 *Doing it yourself is the right choice when* you send only one or two short reports a month.
 
+## What each option costs
+
+- **Property management software.** Buildium plans start at $62 a month, with Growth at $192 and Premium at $400 (buildium.com/pricing, October 2026). TenantCloud runs about $15–35 a month (tenantcloud.com/pricing, October 2026). Larger platforms charge per unit with monthly minimums.
+- **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
+- **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
+
+Alza Services plans start at $79 a month. [See plans and pricing](https://alzallc.com/#pricing)
+
 ## Why a guided setup fits most busy owners
 
 Alza Services offers a guided setup. We plan the report around the tools you already use, so you do not need new software. You get a named owner for the setup and a monthly check-in.

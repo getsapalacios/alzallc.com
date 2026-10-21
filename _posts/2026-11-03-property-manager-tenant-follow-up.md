@@ -71,6 +71,14 @@ Here are the four common ways to get tenant follow-up off your plate, with the h
 
 *Doing it yourself is the right choice when* you manage only a few units.
 
+## What each option costs
+
+- **Property management software.** Buildium plans start at $62 a month, with Growth at $192 and Premium at $400 (buildium.com/pricing, October 2026). TenantCloud runs about $15–35 a month (tenantcloud.com/pricing, October 2026). Larger platforms charge per unit with monthly minimums.
+- **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
+- **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
+
+Alza Services plans start at $79 a month. [See plans and pricing](https://alzallc.com/#pricing)
+
 ## Why a guided setup fits small property managers
 
 Alza Services offers a guided setup. We plan tenant follow-up around the software you already pay for.

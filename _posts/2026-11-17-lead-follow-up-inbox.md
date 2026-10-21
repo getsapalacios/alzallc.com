@@ -70,6 +70,14 @@ Once you know what good follow-up looks like, you have to decide who will make i
 
 *Doing it yourself is the right choice when* you get only a handful of leads a month. A template and a calendar reminder may be enough.
 
+## What each option costs
+
+- **Lead or CRM software.** HubSpot's CRM is free for up to 2 users, with paid seats from about $20 a month (hubspot.com/pricing, October 2026). GoHighLevel starts at $97 a month (gohighlevel.com/pricing, October 2026); texting and email usage may cost extra.
+- **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
+- **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
+
+Alza Services plans start at $79 a month. [See plans and pricing](https://alzallc.com/#pricing)
+
 ## Why a guided setup fits most busy owners
 
 Alza Services offers a guided setup. Here is what that means in plain terms:
