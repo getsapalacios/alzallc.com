@@ -769,7 +769,7 @@
             <li>One revision round within the first 30 days</li>
             <li>Email support (48-hour response SLA)</li>
           </ul>
-          <a href="https://cal.com/alza-unit-wz3opc/30min" class="btn btn-primary" style="width:100%; text-align:center;" target="_blank" rel="noopener">Get Started</a>
+          <a href="https://cal.com/alza-unit-wz3opc/30min?utm_source=website&amp;utm_medium=book_button&amp;utm_content=pricing_automate" data-book-location="pricing_automate" class="btn btn-primary" style="width:100%; text-align:center;" target="_blank" rel="noopener">Get Started</a>
         </div>
 
         <!-- Tier 2: Accelerate (featured / PRIMARY) -->
@@ -786,7 +786,7 @@
             <li>Email + voice message support (24-hour response SLA)</li>
             <li>One revision round per workflow per quarter</li>
           </ul>
-          <a href="https://cal.com/alza-unit-wz3opc/30min" class="btn btn-primary" style="width:100%; text-align:center;" target="_blank" rel="noopener">Get Started</a>
+          <a href="https://cal.com/alza-unit-wz3opc/30min?utm_source=website&amp;utm_medium=book_button&amp;utm_content=pricing_accelerate" data-book-location="pricing_accelerate" class="btn btn-primary" style="width:100%; text-align:center;" target="_blank" rel="noopener">Get Started</a>
         </div>
 
         <!-- Tier 3: Amplify -->
@@ -802,7 +802,7 @@
             <li>Priority support (same-day response, direct messaging access)</li>
             <li>Quarterly strategy review: what to automate next based on business growth</li>
           </ul>
-          <a href="https://cal.com/alza-unit-wz3opc/30min" class="btn btn-primary" style="width:100%; text-align:center;" target="_blank" rel="noopener">Get Started</a>
+          <a href="https://cal.com/alza-unit-wz3opc/30min?utm_source=website&amp;utm_medium=book_button&amp;utm_content=pricing_amplify" data-book-location="pricing_amplify" class="btn btn-primary" style="width:100%; text-align:center;" target="_blank" rel="noopener">Get Started</a>
         </div>
 
       </div>
@@ -824,7 +824,7 @@
           <strong>Book Your Free 30-Minute Discovery Call</strong>
           Click below to find a time that works for you. No commitment required.
           <br><br>
-          <a href="https://cal.com/alza-unit-wz3opc/30min" class="calendly-direct-link" target="_blank" rel="noopener">
+          <a href="https://cal.com/alza-unit-wz3opc/30min?utm_source=website&amp;utm_medium=book_button&amp;utm_content=booking_section" data-book-location="booking_section" class="calendly-direct-link" target="_blank" rel="noopener">
             Book a Free Call →
           </a>
         </div>
@@ -848,5 +848,16 @@
     </div>
   </footer>
 
+  <script>
+    // Send one GA4 event for every click on a Cal.com booking link.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href*="cal.com/alza-unit-wz3opc/30min"]');
+      if (!a || typeof gtag !== 'function') return;
+      gtag('event', 'book_call_click', {
+        link_location: a.getAttribute('data-book-location') || 'unlabeled',
+        link_text: a.textContent.trim().slice(0, 100)
+      });
+    });
+  </script>
 </body>
 </html>
