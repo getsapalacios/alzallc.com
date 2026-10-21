@@ -73,11 +73,11 @@ There are four common ways to stop building the report by hand. Each has a real 
 
 *Doing it yourself is the right choice when* you send only one or two short reports a month.
 
-## Why done for you fits most busy owners
+## Why a guided setup fits most busy owners
 
-Alza Services is a done-for-you option. We plan the report around the tools you already use, so you do not need new software. You get a named owner for the setup and a monthly check-in.
+Alza Services offers a guided setup. We plan the report around the tools you already use, so you do not need new software. You get a named owner for the setup and a monthly check-in.
 
-- **Done for you, and kept running.** We plan the template, the checks and the summary with you, and one person owns the setup. You get a monthly check-in.
+- **Planned with you, with a monthly check-in.** We plan the template, the checks and the summary with you, and one person owns the setup. You get a monthly check-in.
 - **Works with the tools you already have.** We start from your current tools, so there is no new platform to learn and no data to move.
 - **A named owner for your workflows, not a support ticket.** One point of contact who knows your setup and a clear way to flag a problem.
 

@@ -68,11 +68,11 @@ Here are the four common ways to get tenant follow-up off your plate, with the h
 
 *Doing it yourself is the right choice when* you manage only a few units.
 
-## Why done for you fits small property managers
+## Why a guided setup fits small property managers
 
-Alza Services is a done-for-you option. We plan tenant follow-up around the software you already pay for.
+Alza Services offers a guided setup. We plan tenant follow-up around the software you already pay for.
 
-- **Done for you, and kept running.** We plan the rules with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
+- **Planned with you, with a monthly check-in.** We plan the rules with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
 - **Works with the tools you already have.** The plan starts from your current software, so there is no switch and no data move.
 - **A named owner for your workflows, not a support ticket.** One point of contact who knows your setup and a clear way to flag a problem.
 

@@ -67,11 +67,11 @@ Once you know what good follow-up looks like, you have to decide who will make i
 
 *Doing it yourself is the right choice when* you get only a handful of leads a month. A template and a calendar reminder may be enough.
 
-## Why done for you fits most busy owners
+## Why a guided setup fits most busy owners
 
-Alza Services is a done-for-you option. Here is what that means in plain terms:
+Alza Services offers a guided setup. Here is what that means in plain terms:
 
-- **Done for you, and kept running.** We plan your lead follow-up with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
+- **Planned with you, with a monthly check-in.** We plan your lead follow-up with you, draft the messages in your voice, and name one person who owns the setup. You get a monthly check-in.
 - **Works with the tools you already have.** We start from your existing inbox, calendar and software, so there is no new platform to learn and nothing to switch.
 - **A named owner for your workflows, not a support ticket.** You have one point of contact who knows your setup, and a clear way to flag a problem.
 
