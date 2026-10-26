@@ -7,12 +7,12 @@ permalink: /blog/lead-follow-up-inbox/
 image:
   path: /assets/images/blog/lead-follow-up-inbox.png
   alt: "A new website lead getting a reply within 5 minutes"
-date: 2026-11-17 06:00:00 -0600
+date: 2026-11-09 06:00:00 -0600
 ---
 
 # Why leads go cold in your inbox, and how to follow up within 5 minutes without living in email
 
-A new lead fills out your website form at 7:40 PM. You see it the next morning, between two jobs. You reply at lunch. By then, they have already booked with someone else.
+Here is an illustrative example. A new lead fills out your website form at 7:40 PM. You see it the next morning, between two jobs. You reply at lunch. By then, they have already booked with someone else.
 
 That is how many small businesses lose leads. It is not because the price was wrong or the work was worse. It is because someone else answered first.
 
@@ -110,8 +110,12 @@ If you do only steps 3 and 4, you will already follow up better than many busine
 
 **[Download the one-page checklist (PDF)](/assets/downloads/lead-follow-up-inbox-checklist.pdf)**
 
-## Tell us what you are dealing with
+## Software is the tool. Someone still has to do the work.
 
-Where do your leads slip through: after-hours forms, too many inboxes, or no second follow-up? [Reply and tell us](mailto:alza.unit@gmail.com?subject=Lead%20follow-up).
+Good follow-up needs two things: a tool, and a person who sets it up and keeps it running. You can supply both yourself, hire them, or hand the work to someone else. All four routes above can work.
 
-If you'd like a second set of eyes on your follow-up, we offer a free 30-minute workflow review. [Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)
+We are the "someone else" option. We set the follow-up up, run it, and keep one named person responsible for it. If a tool alone would solve your problem, we will tell you.
+
+Where do your leads slip through: after-hours forms, too many inboxes, or no second follow-up? In a free 30-minute workflow review, we look at where yours get stuck and talk through a first fix. [Reply and tell us](mailto:alza.unit@gmail.com?subject=Lead%20follow-up) or book a time.
+
+<a href="https://cal.com/alza-unit-wz3opc/30min">Book a free workflow review</a>

@@ -8,6 +8,7 @@ image:
   path: /assets/images/blog/property-manager-tenant-follow-up.png
   alt: "Rent reminders, renewal notices and maintenance updates going out to tenants automatically"
 date: 2026-11-03 06:00:00 -0600
+published: false
 ---
 
 # How property managers can stop chasing tenants for rent, renewals and maintenance updates
@@ -16,7 +17,7 @@ If you manage rentals, you spend a large part of every week sending the same mes
 
 The fix is not working longer hours. It is to have the routine messages go out on time, every time, and hand you only the ones that need a person.
 
-This post is for small property managers, roughly 10 to 150 doors. It shows which tenant messages to automate first, how to choose a way to get it done, and what should always stay with you.
+This post is for small property managers and landlords, roughly 10 to 150 doors. We do not manage properties; this is about the messages around them. It shows which tenant messages to automate first, how to choose a way to get it done, and what should always stay with you.
 
 ## The real cost of manual tenant follow-up
 
