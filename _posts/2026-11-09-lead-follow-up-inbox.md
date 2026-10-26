@@ -18,6 +18,8 @@ That is how many small businesses lose leads. It is not because the price was wr
 
 This post explains why speed matters, where leads get lost, what good follow-up looks like, and how to choose between your options.
 
+**The short version:** many leads go to whoever replies first, and only 3% of companies reply within 5 minutes (NP Digital, February 2026). Answer every new lead within minutes, follow up twice, and track every lead in one list. [Get the one-page checklist (PDF)](/assets/downloads/lead-follow-up-inbox-checklist.pdf).
+
 ## Speed decides who wins the job
 
 When someone needs a plumber, a cleaner, a property manager or an accountant, they usually contact more than one business. Many go with whoever replies first and makes booking easy.
@@ -80,10 +82,8 @@ Once you know what good follow-up looks like, you have to decide who will make i
 
 Prices change, so check each vendor's page before you decide.
 
-- **Lead or CRM software.** HubSpot's CRM is free for up to 2 users, with paid seats from about $20 a month (hubspot.com/pricing, October 2026). GoHighLevel starts at $97 a month (gohighlevel.com/pricing, October 2026); texting and email usage may cost extra.
-- **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
-- **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
-- **A done-for-you service.** Prices vary. Ask for the full monthly price and any setup fee in writing.
+- **Lead or CRM software.** HubSpot's CRM is free for up to 2 users. Its paid Starter plan is listed from $7 per seat a month during a current promotion (hubspot.com/pricing/crm, checked October 26, 2026), and paid plans cost more as you add features. GoHighLevel starts at $97 a month (gohighlevel.com/pricing, checked October 26, 2026); texting and email usage may cost extra.
+- **An in-house administrative assistant.** The median pay for secretaries and administrative assistants is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
 
 ## What you keep doing yourself
 
