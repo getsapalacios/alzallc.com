@@ -115,6 +115,6 @@ With those five things written down, you have the plan for your first automated 
 
 ## Tell us what you are dealing with
 
-Which of these messages takes most of your week: rent, renewals or repairs? [Reply and tell us](mailto:alza.unit@gmail.com?subject=Tenant%20follow-up).
+Which of these messages takes most of your week: rent, renewals or repairs? [Reply and tell us](mailto:admin@alzallc.com?subject=Tenant%20follow-up).
 
 If you'd like a second set of eyes on your follow-up, we offer a free 30-minute workflow review. [Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)

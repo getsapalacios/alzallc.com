@@ -118,6 +118,6 @@ Once you have a fixed template, a list of sources and a set of checks, you have 
 
 ## Tell us what you are dealing with
 
-Which part of your monthly report takes longest: pulling the numbers, formatting, or writing the summary? [Reply and tell us](mailto:alza.unit@gmail.com?subject=Monthly%20report).
+Which part of your monthly report takes longest: pulling the numbers, formatting, or writing the summary? [Reply and tell us](mailto:admin@alzallc.com?subject=Monthly%20report).
 
 If you'd like a second set of eyes on your monthly report, we offer a free 30-minute workflow review. [Book a free workflow review](https://cal.com/alza-unit-wz3opc/30min)

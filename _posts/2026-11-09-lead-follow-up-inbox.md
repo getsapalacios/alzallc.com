@@ -118,6 +118,6 @@ Good follow-up needs two things: a tool, and a person who sets it up and keeps i
 
 We are the "someone else" option. We set the follow-up up, run it, and keep one named person responsible for it. If a tool alone would solve your problem, we will tell you.
 
-Where do your leads slip through: after-hours forms, too many inboxes, or no second follow-up? In a free 30-minute workflow review, we look at where yours get stuck and talk through a first fix. [Reply and tell us](mailto:alza.unit@gmail.com?subject=Lead%20follow-up) or book a time.
+Where do your leads slip through: after-hours forms, too many inboxes, or no second follow-up? In a free 30-minute workflow review, we look at where yours get stuck and talk through a first fix. [Reply and tell us](mailto:admin@alzallc.com?subject=Lead%20follow-up) or book a time.
 
 <a href="https://cal.com/alza-unit-wz3opc/30min">Book a free workflow review</a>
