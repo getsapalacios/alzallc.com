@@ -7,7 +7,7 @@ permalink: /blog/lead-follow-up-inbox/
 image:
   path: /assets/images/blog/lead-follow-up-inbox.png
   alt: "A new website lead getting a reply within 5 minutes"
-date: 2026-11-09 06:00:00 -0600
+date: 2026-11-09 05:00:00 -0600
 ---
 
 # Why leads go cold in your inbox, and how to follow up within 5 minutes without living in email
