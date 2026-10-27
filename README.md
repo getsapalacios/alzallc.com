@@ -1,3 +1,3 @@
 # alzallc.com
 
-The website for Alza Services LLC. Questions: alza.unit@gmail.com
+The website for Alza Services LLC. Questions: admin@alzallc.com

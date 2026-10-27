@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "How to produce your monthly owner or business report in minutes instead of a weekend"
 seo_title: "Automate Your Monthly Report: Minutes, Not a Weekend"
 description: "How small businesses and property managers can build monthly owner reports automatically, and how to choose between software, a hire, or done for you."
