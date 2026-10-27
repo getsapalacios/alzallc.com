@@ -78,14 +78,14 @@ There is no single right answer. The best fit depends on how many units you mana
 
 *Doing it yourself is the right choice when* you manage only a few units.
 
-## What each option costs
+## What to ask about cost
 
-Prices change, so check each vendor's page before you decide.
+Prices change, so ask every option these questions before you decide:
 
-- **Property management software.** Buildium plans start at $62 a month, with Growth at $192 and Premium at $400 (buildium.com/pricing, October 2026). TenantCloud runs about $15–35 a month (tenantcloud.com/pricing, October 2026). Larger platforms charge per unit with monthly minimums.
-- **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
-- **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
-- **A done-for-you service.** Prices vary. Ask for the full monthly price and any setup fee in writing.
+- What is the monthly price, and is there a setup fee?
+- Are texting, email or extra users charged on top?
+- Who fixes it when your software changes or something breaks, and is that included?
+- What do you keep if you leave?
 
 ## What should always stay with a person
 

@@ -78,12 +78,14 @@ Once you know what good follow-up looks like, you have to decide who will make i
 
 *Doing it yourself is the right choice when* you get only a handful of leads a month. A template and a calendar reminder may be enough.
 
-## What each option costs
+## What to ask about cost
 
-Prices change, so check each vendor's page before you decide.
+Prices change, so ask every option these questions before you decide:
 
-- **Lead or CRM software.** HubSpot's CRM is free for up to 2 users. Its paid Starter plan is listed from $7 per seat a month during a current promotion (hubspot.com/pricing/crm, checked October 26, 2026), and paid plans cost more as you add features. GoHighLevel starts at $97 a month (gohighlevel.com/pricing, checked October 26, 2026); texting and email usage may cost extra.
-- **An in-house administrative assistant.** The median pay for secretaries and administrative assistants is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
+- What is the monthly price, and is there a setup fee?
+- Are texting, email or extra users charged on top?
+- Who fixes it when something breaks or your tools change, and is that included?
+- What do you keep if you leave?
 
 ## What you keep doing yourself
 

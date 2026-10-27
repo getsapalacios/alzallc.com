@@ -40,7 +40,7 @@ A good automated report does the same five steps you do today, without the manua
 
 **3. Checks for problems.** If a number looks wrong, such as a missing deposit or an expense far above normal, the report flags it for you instead of hiding it.
 
-**4. Drafts a short plain-language summary.** For example: "Rent collected was 98% of expected. One repair over $500 was approved. Two leases renew next month." You read it and edit if needed.
+**4. Drafts a short plain-language summary.** For example: "Rent collected was 98% of expected. One repair was approved. Two leases renew next month." You read it and edit if needed.
 
 **5. Waits for your review.** Nothing goes out until you approve it. Then each report goes to the right person.
 
@@ -82,14 +82,14 @@ There are several ways to stop building the report by hand. Each has a real plac
 
 *Doing it yourself is the right choice when* you send only one or two short reports a month.
 
-## What each option costs
+## What to ask about cost
 
-Prices change, so check each vendor's page before you decide.
+Prices change, so ask every option these questions before you decide:
 
-- **Property management software.** Buildium plans start at $62 a month, with Growth at $192 and Premium at $400 (buildium.com/pricing, October 2026). TenantCloud runs about $15–35 a month (tenantcloud.com/pricing, October 2026). Larger platforms charge per unit with monthly minimums.
-- **An in-house administrative assistant.** The median pay is $23.23 an hour (U.S. Bureau of Labor Statistics, May 2025), so 10–20 hours a month is roughly $230–465 before overhead. Freelance assistants usually charge more.
-- **An agency or freelancer setup.** A one-time setup fee, and ongoing upkeep billed separately if you want it.
-- **A done-for-you service.** Prices vary. Ask for the full monthly price and any setup fee in writing.
+- What is the monthly price, and is there a setup fee?
+- Are texting, email or extra users charged on top?
+- Who fixes it when an export changes or something breaks, and is that included?
+- What do you keep if you leave?
 
 ## What should always stay with a person
 
