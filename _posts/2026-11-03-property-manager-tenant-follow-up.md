@@ -8,7 +8,7 @@ image:
   path: /assets/images/blog/property-manager-tenant-follow-up.png
   alt: "Rent reminders, renewal notices and maintenance updates going out to tenants automatically"
 date: 2026-11-03 06:00:00 -0600
-published: false
+published: true
 ---
 
 # How property managers can stop chasing tenants for rent, renewals and maintenance updates
