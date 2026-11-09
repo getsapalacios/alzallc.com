@@ -30,7 +30,3 @@ defaults:
       path: "assets/downloads/monthly-report-automation-checklist.pdf"
     values:
       sitemap: false
-  - scope:
-      path: "assets/downloads/property-manager-tenant-follow-up-checklist.pdf"
-    values:
-      sitemap: false
