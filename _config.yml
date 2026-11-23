@@ -20,7 +20,7 @@ exclude:
   - VERSION
   - README.md
   - BLOG.md
-  - demo
+  - demo/
   - sprint-2026-3
   - .github
 
